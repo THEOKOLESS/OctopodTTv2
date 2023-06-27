@@ -25,7 +25,7 @@ Ce projet consiste en une application Go, une API Symfony et une interface front
 
     Lancez le serveur Symfony avec la commande :
 
-    symfony serve
+    sh run.sh
 
 # Lancement de l'interface front-end
 
@@ -37,7 +37,7 @@ cd front
 
 Lancez le serveur front-end avec la commande :
 
-npm start
+sh run.sh
 
 
 Maintenant, votre application devrait être en cours d'exécution. Profitez de l'exploration du projet Octopod! !!
